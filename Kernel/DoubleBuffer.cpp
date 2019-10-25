@@ -1,4 +1,6 @@
-#include <Kernel/DoubleBuffer.h>
+//Kernel/DoubleBuffer as header file
+#include <iostream>
+#include <Kernel/DoubleBuffer.h> 
 
 inline void DoubleBuffer::compute_emptiness()
 {
